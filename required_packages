@@ -1,0 +1,4 @@
+->  Docker should run on the server to build docker image
+-> Bind the required ports while running containers
+-> Interconnect the jobs with post build actions
+-> Add the git repo in the jobs.
